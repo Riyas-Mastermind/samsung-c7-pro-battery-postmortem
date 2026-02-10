@@ -1,0 +1,15 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local logs
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environments
+.venv/
+env/
